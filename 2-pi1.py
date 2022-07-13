@@ -1,0 +1,1 @@
+/home/jiangfeng/project/OA-eQTL/4-synovium_compare_with_GTEX_tissue/correlation_pi1/2-pi1.py
